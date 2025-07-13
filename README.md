@@ -7,5 +7,5 @@
   4. Run the application: `go run main.go`
 - Features:
   - Simple HTTP server
-  - Handles basic GET requests
+  - Handles GET/POST requests
 - Dependencies: None
